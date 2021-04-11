@@ -69,5 +69,5 @@ Based on the analysis, we can draw two conclusions:
 1) Re-allocate funding to smaller size schools so that spending per student is more evenly distributed across school sizes.
 2) Conduct deeper analysis on the characteristics of charter and district type schools to understand the factors contributing to the students' performance and math and reading scores beyond spending per student and budget size.
 3) Determine how funding could be better spent to focus on key gaps while continuing to invest in the factors that drive positive performance trends and patterns.
-4) Students across the schools had higher reading scores over math scores. This is another area to investigate and potentially allocate more funding in this area.
+4) Students across the schools had higher reading scores over math scores. Investigate and potentially allocate more funding in this area.
 
