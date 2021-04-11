@@ -58,7 +58,9 @@ Small to medium size schools performed better than large size schools.
 
 Charter schools out performed the district schools by 36.72%.
 
-
-
-
 # Summary
+
+Based on the analysis, we can draw some conclusions. 
+* The size and school type of the school have an impact on the school's performance. Smaller sized and charter schools outperformed the larger sized and disctrict schools.
+* Spending per student does not have a positive correlation to the students' scores for math and reading and overall passing percentage.
+
