@@ -64,9 +64,10 @@ Based on the analysis, we can draw two conclusions:
 * The size and school type of the school have an impact on the school's performance. Smaller size and charter schools out performed the larger size and disctrict schools. An interesting observation is that small and medium size schools were close to par with medium size schools out performing small size schools by 1%.
 * Spending per student does not have a positive correlation to the students' scores for math and reading and overall passing percentage.
 
-### Recommendations
+## Recommendations
 
 1) Re-allocate funding to smaller size schools so that spending per student is more evenly distributed across school sizes.
 2) Conduct deeper analysis on the characteristics of charter and district type schools to understand the factors contributing to the students' performance and math and reading scores beyond spending per student and budget size.
 3) Determine how funding could be better spent to focus on key gaps while continuing to invest in the factors that drive positive performance trends and patterns.
+4) Students across the schools had higher reading scores over math scores. This is another area to investigate and potentially allocate more funding in this area.
 
