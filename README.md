@@ -24,15 +24,15 @@ The analysis will include the following deliverables:
 # Results
 
 ### District Summary
-![image](https://user-images.githubusercontent.com/80140082/114315414-c3d0da00-9ab3-11eb-9556-6152672650c2.png)
+![image](https://user-images.githubusercontent.com/80140082/114315478-01356780-9ab4-11eb-8771-c1dc5b08d419.png)
 
 ### Per School Summary
 ![image](https://user-images.githubusercontent.com/80140082/114315146-61c3a500-9ab2-11eb-9541-fa2309b79b10.png)
 
-## Top Five Performing Schools
+### Top Five Performing Schools
 ![image](https://user-images.githubusercontent.com/80140082/114315201-a9e2c780-9ab2-11eb-962c-49dc7ecbddcd.png)
 
-## Lowest Performing Schools
+### Lowest Performing Schools
 ![image](https://user-images.githubusercontent.com/80140082/114315242-e44c6480-9ab2-11eb-8d0c-bf3ddf4acc40.png)
 
 
