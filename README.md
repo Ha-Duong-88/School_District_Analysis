@@ -54,7 +54,7 @@ Schools with lower spending per student ranges performed better than schools wit
 Small to medium size schools performed better than large size schools.
 
 ### Scores By School Type
-![image](https://user-images.githubusercontent.com/80140082/114316685-693a7c80-9ab9-11eb-8166-c948e1dea67f.png)
+![image](https://user-images.githubusercontent.com/80140082/114317481-2d091b00-9abd-11eb-925c-92edd277f4b8.png)
 
 Charter schools out performed the district schools by 36.72%.
 
