@@ -7,7 +7,7 @@ The objective of the City School District Analysis Project is to analyze student
 
 As part of this project, we analyzed data on student funding and student standardized test scores. We analyzed all student's math and reading scores and various information about the schools that they attend. The objective is to aggregate the data and showcase school trends in school performance. This will assist school board and superintendent in making decisions about budget priority and budget allotment.
 
-# Scope of Analysis
+## Scope of Analysis
 
 The analysis will include the following deliverables:
 
@@ -20,3 +20,19 @@ The analysis will include the following deliverables:
 * School performance based on the budget per student
 * School performance based on the school size 
 * School performance based on the type of school
+
+# Results
+
+### Per_School_Summary
+![image](https://user-images.githubusercontent.com/80140082/114315146-61c3a500-9ab2-11eb-9541-fa2309b79b10.png)
+
+## Top Five Performing Schools
+![image](https://user-images.githubusercontent.com/80140082/114315201-a9e2c780-9ab2-11eb-962c-49dc7ecbddcd.png)
+
+## Lowest Performing Schools
+![image](https://user-images.githubusercontent.com/80140082/114315242-e44c6480-9ab2-11eb-8d0c-bf3ddf4acc40.png)
+
+
+## 
+
+# Summary
