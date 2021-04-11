@@ -36,12 +36,12 @@ District type schools had the lowest % overall passing scores (
 ### Top Five Performing Schools
 ![image](https://user-images.githubusercontent.com/80140082/114315201-a9e2c780-9ab2-11eb-962c-49dc7ecbddcd.png)
 
-The top performing schools were charter schools.
+The top performing schools were charter type schools.
 
 ### Lowest Performing Schools
 ![image](https://user-images.githubusercontent.com/80140082/114315242-e44c6480-9ab2-11eb-8d0c-bf3ddf4acc40.png)
 
-The lowest performing schools were charter schools.
+The lowest performing schools were district type schools.
 
 ### Spending Per Student 
 ![image](https://user-images.githubusercontent.com/80140082/114316046-aa7d5d00-9ab6-11eb-8e80-43eaa6352920.png)
@@ -60,7 +60,7 @@ Charter schools out performed the district schools by 36.72%.
 
 # Summary
 
-Based on the analysis, we can draw some conclusions. 
-* The size and school type of the school have an impact on the school's performance. Smaller sized and charter schools outperformed the larger sized and disctrict schools.
+Based on the analysis, we can draw two conclusions:
+* The size and school type of the school have an impact on the school's performance. Smaller size and charter schools out performed the larger size and disctrict schools. An interesting observation is that small and medium size schools were close to par with medium size schools out performing small size schools by 1%.
 * Spending per student does not have a positive correlation to the students' scores for math and reading and overall passing percentage.
 
