@@ -26,16 +26,39 @@ The analysis will include the following deliverables:
 ### District Summary
 ![image](https://user-images.githubusercontent.com/80140082/114315478-01356780-9ab4-11eb-8771-c1dc5b08d419.png)
 
+The overall % passing for the 15 schools analyzed is 64.9% for a total of 39,170 students across 15 schools in-scope for this analysis.
+
 ### Per School Summary
 ![image](https://user-images.githubusercontent.com/80140082/114315146-61c3a500-9ab2-11eb-9541-fa2309b79b10.png)
+
+District type schools had the lowest % overall passing scores (
 
 ### Top Five Performing Schools
 ![image](https://user-images.githubusercontent.com/80140082/114315201-a9e2c780-9ab2-11eb-962c-49dc7ecbddcd.png)
 
+The top performing schools were charter schools.
+
 ### Lowest Performing Schools
 ![image](https://user-images.githubusercontent.com/80140082/114315242-e44c6480-9ab2-11eb-8d0c-bf3ddf4acc40.png)
 
+The lowest performing schools were charter schools.
 
-## 
+### Spending Per Student 
+![image](https://user-images.githubusercontent.com/80140082/114316046-aa7d5d00-9ab6-11eb-8e80-43eaa6352920.png)
+
+Schools with lower spending per student ranges performed better than schools with the highest spending ranges.
+
+### Scores By School Size
+![image](https://user-images.githubusercontent.com/80140082/114316107-f7f9ca00-9ab6-11eb-9f5a-a492df021552.png)
+
+Small to medium size schools performed better than large size schools.
+
+### Scores By School Type
+![image](https://user-images.githubusercontent.com/80140082/114316685-693a7c80-9ab9-11eb-8166-c948e1dea67f.png)
+
+Charter schools out performed the district schools by 36.72%.
+
+
+
 
 # Summary
